@@ -1,0 +1,19 @@
+{
+  "name": "electron-package-manager",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayday/electron-package-manager.git"
+  },
+  "author": "case <case@casesandberg.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayday/electron-package-manager/issues"
+  },
+  "homepage": "https://github.com/mayday/electron-package-manager#readme"
+}
